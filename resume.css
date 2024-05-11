@@ -1,0 +1,91 @@
+div {
+  width: 1000px;
+  height: 1000px;
+  background-color: rgb(135, 237, 237);
+  margin: auto;
+}
+
+header {
+  width: 1000px;
+  height: 250px;
+  background-color: rgb(79, 184, 184);
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  float: right;
+  margin-top: 40px;
+  margin-right: 30px;
+}
+
+#name {
+  padding-top: 70px;
+  padding-left: 30px;
+}
+
+#skills {
+  margin-left: 30px;
+}
+
+#edu {
+  margin-left: 30px;
+}
+
+#post-g {
+  margin-left: 30px;
+}
+
+#address1 {
+  float: right;
+  margin-top: -15px;
+}
+
+#perc1 {
+  margin-left: 30px;
+}
+#degree {
+  margin-left: 30px;
+}
+
+#address2 {
+  float: right;
+  margin-top: -15px;
+}
+
+#perc2 {
+  margin-left: 30px;
+}
+#degree {
+  margin-left: 30px;
+}
+
+#address2 {
+  float: right;
+  margin-top: -15px;
+}
+
+#perc2 {
+  margin-left: 30px;
+}
+
+table {
+  width: 1000px;
+  margin-left: 30px;
+}
+
+#lan {
+  margin-left: 30px;
+}
+#decl {
+  margin-left: 30px;
+}
+
+p {
+  margin-left: 30px;
+}
+
+b {
+  float: right;
+  margin-right: 40px;
+}
